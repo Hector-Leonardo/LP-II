@@ -1,5 +1,3 @@
-    package PokemonBatallas;
-
     public class Pokemon {
     private int hp;
     private int lvl;
