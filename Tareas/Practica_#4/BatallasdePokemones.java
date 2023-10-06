@@ -1,6 +1,4 @@
 
-package PokemonBatallas;
-
 public class BatallasdePokemones {
 public static void main (String[] args) {
     
